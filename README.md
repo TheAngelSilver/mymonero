@@ -1,0 +1,2 @@
+# mymonero
+Monero miner
